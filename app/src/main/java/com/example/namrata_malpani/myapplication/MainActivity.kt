@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
 
     fun add(){
         val i = 1 +1
+        val j = 1+2
 
     }
 }
